@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 1,
+  "name": "trashtalk",
+  "version": "1.0",
+  "homepage_url": "https://yt3.ggpht.com/VBV6Q5yzpmXo61ZTezuZN5EF8SXPTpuAqCcbnmcnCV2Pn_sWvaf9RAd3if2TTQPs634tDH4RFQ=w2560-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no",
+
+  "theme": {
+    "images": {
+      "headerURL": "trashtalk.jpg"
+    },
+    
+    "colors": {
+       "accentcolor": "#adb09f",
+       "textcolor": "#000"
+    }
+  }
+}
